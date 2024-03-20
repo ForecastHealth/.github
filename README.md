@@ -1,1 +1,15 @@
-# .github
+This is the official GitHub page for Forecast Health Australia.
+
+Forecast Health has a few aims:
+- Building models
+- Sharing our code
+- Documenting our models and code with simple language
+- Doing these things for other people's models
+- Having a transparent philosophy
+
+On this GitHub page, we fulfill the second of these aims, by sharing our code.
+We also share models we've built, and host pages where you can use them.
+
+You can find out more at our website: https://forecasthealth.org
+
+For enquiries, please email info@forecasthealth.org
