@@ -1,4 +1,4 @@
-This is the official GitHub page for Forecast Health Australia.
+# The official GitHub page for Forecast Health Australia
 
 Forecast Health has a few aims:
 - Building models
