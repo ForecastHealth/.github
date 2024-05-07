@@ -11,7 +11,7 @@ On this GitHub page, we fulfill the second of these aims, by sharing our code.
 We also share models we've built, and make web-apps where you can use them.
 
 Specifically, we are doing the following things:
-- Building a protocol for how state transition models should run [View the repository here](https://github.com/ForecastHealth/botech-protocol)
+- Building a protocol for how state transition models should run: [View the repository here](https://github.com/ForecastHealth/botech-protocol)
 - Implementing that protocol in Python (not publicly available yet)
 - Building models in botech, and running them using the `botech-python` implementation
 
