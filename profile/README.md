@@ -1,5 +1,7 @@
 # The official website for Forecast Health Australia
 
+We build mathematical models that look at the impacts and costs of health interventions.
+
 Forecast Health has a few aims:
 - Building models
 - Sharing our code
