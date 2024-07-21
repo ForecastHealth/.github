@@ -15,6 +15,7 @@ Specifically, we are doing the following things:
 - Implementing that protocol in Python (not publicly available yet)
 - Building models in botech, and running them using the `botech-python` implementation
 
+Take a look at [our GitHub Wiki for more information](https://github.com/ForecastHealth/.github/wiki)
 For enquiries, please email info@forecasthealth.org
 
 Forecast Health Australia PTY LTD (ACN: 658 291 653) is an Australian Proprietary Company, Limited By Shares.  
